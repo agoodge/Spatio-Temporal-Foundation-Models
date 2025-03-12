@@ -17,6 +17,7 @@ A collection of research papers on foundation models for spatio-temporal data, s
 |2023|Nature|[Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3)|[code](https://github.com/198808xc/Pangu-Weather)|
 |2023|ICML|[ClimaX: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343)|[code](https://github.com/microsoft/ClimaX)|
 |2023|arxiv|[W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting](https://arxiv.org/abs/2304.08754)[code](https://github.com/Gufrannn/W-MAE)|
+|2025|ICLR|[Weathergfm: Learning a weather generalist foundation model via in-context learning]([https://arxiv.org/abs/2304.08754](https://openreview.net/pdf?id=izjNI5bcOV))|
 
 ### Urban Activity
 |Year|Venue|Title|Code|
