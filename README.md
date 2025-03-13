@@ -9,7 +9,7 @@ A collection of research papers on foundation models for spatio-temporal data, s
 |2024|arxiv|[OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction](https://arxiv.org/pdf/2408.10269)|[code](https://github.com/HKUDS/OpenCity)|
 |2024|arxiv|[A Foundation Model for Unified Urban Spatio-Temporal Flow Prediction](https://arxiv.org/pdf/2411.12972)|[code](https://github.com/YuanYuan98/UniFlow)|
 |2024|arxiv|[UrbanDIT: A Foundation Model for Open-World Urban Spatio-Temporal Learning](https://arxiv.org/pdf/2411.12164?)|[code](https://github.com/YuanYuan98/UrbanDiT)|
-
+|2024|CIKM|[Prompt-Based Spatio-Temporal Graph Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3627673.3679554)|[code](https://github.com/hjf1997/STGP)|
 ### Weather & Climate
 |Year|Venue|Title|Code|
 |:-:|:-:|-|:-:|
